@@ -1,0 +1,170 @@
+@media screen and (max-width:1199px){
+    html{
+        font-size: 15px;
+    }
+    .slide_content p {
+        max-width: 760px;
+    }
+}
+
+@media screen and (max-width:991px){
+    .slide_content h2 {
+        font-size: 2.5rem;
+    }
+    .slide_content p {
+        font-size: 1.1rem;
+        max-width: 900px;
+    }
+    .banner_slides {
+        height: 500px;
+    }
+    .text_part {
+        padding: 0 !important;
+    }
+    .text_part h2 {
+        font-size: 2rem;
+    }
+    .img_part {
+        height: 18.75rem;
+        margin-bottom: 30px;
+    }
+    .section_heading {
+        font-size: 2.5rem;
+    }
+    .banner_box h1 {
+        font-size: 2.5rem;
+    }
+    .home_banner {
+        height: 37rem;
+    }
+}
+
+
+
+
+@media screen and (max-width:767px){
+    html{
+        font-size: 14px;
+    }
+    .slide_content h2 {
+        font-size: 2rem;
+    }
+    .bannr_slide_btn .butn {
+        font-size: 1rem;
+    }
+    .slick-prev, .slick-next {
+        top: auto;
+        bottom: -40px; 
+        transform: none;
+    }
+    
+    .slick-prev {
+        left: 50% !important;
+        margin-left: -40px; 
+    }
+    
+    .slick-next {
+        right: 50% !important;
+        margin-right: -40px; 
+    }
+    .single-item-slider {
+        width: 100%;
+    }
+    .banner_slides {
+        height: 450px;
+    }
+    .after-footer .col-12 {
+        flex-direction: column-reverse;
+    }
+    .social-links {
+        margin-bottom: 20px;
+    }
+    .hotel_cards_grid {
+        grid-template-columns: 1fr 1fr;
+    }
+    .butn {
+        padding: 0.9375rem 1.4rem;
+    }
+
+    .banner_box h3 {
+        font-size: 1.35rem;
+    }
+    .newslettr_wrap h4 {
+        font-size: 1.5rem;
+    }
+    .newsletter_input_box input {
+        font-size: 1.3rem;
+    }
+}
+
+
+@media screen and (max-width:575px){
+    .banner_slides {
+        height: 350px;
+    }
+    .slide_content h2 {
+        font-size: 1.5rem;
+    }
+    .section_heading {
+        font-size: 2rem;
+    }
+    .butn {
+        padding: 0.9375rem 1.2rem;
+    }
+    .banner_box h1 {
+        font-size: 2.2rem;
+    }
+    .home_banner {
+        height: 30rem;
+    }
+    .hotel_cards_grid {
+        grid-template-columns: 1fr;
+    }
+    .newslettr_wrap h4 {
+        font-size: 1.3rem;
+    }
+    .home_tips_cards_img {
+        height: 17rem;
+    }
+
+}
+
+
+@media screen and (max-width:480px){
+    .butn {
+        font-size: 1rem;
+        padding: 0.9375rem 1rem;
+    }
+    .slide_content p {
+        font-size: 1rem;
+    }
+    .section_heading {
+        font-size: 1.5rem;
+    }
+    .text_part p {
+        font-size: 1.1rem;
+        font-weight: 500;
+    }
+    .footer .footer-links a {
+        padding: 0 3px;
+        font-size: 1rem;
+    }
+    .home_banner {
+        height: 25.625rem;
+    }
+    .banner_box h3 {
+        font-size: 1.2rem;
+    }
+    .background-image {
+        height: 18rem !important;
+    }
+    .newslettr_wrap h4 {
+        font-size: 1.1rem;
+    }
+    .newsletter_input_box input {
+        font-size: 1.1rem;
+    }
+    .home_cards-content p {
+        font-size: 1rem;
+    }
+}
