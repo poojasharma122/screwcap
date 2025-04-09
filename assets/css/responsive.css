@@ -126,7 +126,15 @@
     .home_tips_cards_img {
         height: 17rem;
     }
-
+    .hot_cards_group p {
+        font-weight: 600;
+    }
+    .hot_cards_group ul li {
+        font-weight: 600;
+    }
+    .py-7 {
+        padding: 2.375rem 0;
+    }
 }
 
 
@@ -173,5 +181,14 @@
     .menu-toggle-btn {
         width: 1.8rem;
         height: 1.8rem;
+    }
+    .hot_head_para {
+        font-size: 1rem;
+    }
+    .hot_cards_group h2 {
+        font-size: 1.3rem;
+    }
+    .hot_cards_image {
+        height: 12.75rem;
     }
 }

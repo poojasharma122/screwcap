@@ -585,7 +585,7 @@ span.gold {
 /* Home Cards CSS Start */
 .home_cards {
     background: #fe9202;
-    padding: 30px;
+    padding: 1.875rem;
     border-radius: 20px;
     height: 100%;
     transition: 0.3s all ease-in-out;
@@ -598,8 +598,12 @@ span.gold {
 .home_cards p {
     font-size: 1.1rem;
     font-weight: 500;
+    color: #fff;
 }
-
+.home_cards p a {
+    color: #fff;
+    font-weight: 600;
+}
 /* Home Cards CSS End */
 
 
