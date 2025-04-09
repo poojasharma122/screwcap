@@ -489,6 +489,9 @@ span.gold {
 /* Banner Section  CSS End */
 
 /* After Banner CSS Start */
+.before_after_banner p {
+    font-size: 1.2rem;
+}
 .img_part {
     height: 100%;
     width: 100%;
