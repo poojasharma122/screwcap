@@ -531,11 +531,10 @@ span.gold {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/home_banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgba(0 0 0/70%);
+    background-color: rgba(0 0 0/60%);
     background-blend-mode: multiply;
 }
 
