@@ -167,4 +167,11 @@
     .home_cards-content p {
         font-size: 1rem;
     }
+    .brand-container a, .footer_logo a {
+        width: 11.75rem;
+    }
+    .menu-toggle-btn {
+        width: 1.8rem;
+        height: 1.8rem;
+    }
 }
