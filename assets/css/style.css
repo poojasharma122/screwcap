@@ -1022,7 +1022,8 @@ span.input_msg {
 .hot_exp_content h3 {
     color: #fe9202;
     font-size: 1.4rem;
-    margin-bottom: 0.9375rem;
+    margin-bottom: 0.3rem;
+    margin-top: 1.4rem;
 }
 
 .hot_cards_image {
@@ -1540,4 +1541,14 @@ section.guide_cards_sec .slide_content p {
 
 .guide_cards:hover .guide_card_img_inner{
     transform: scale(1.1);
+}
+
+select:required:invalid {
+    color: gray;
+}
+option[value=""][disabled] {
+    display: none;
+}
+option {
+    color: black;
 }
