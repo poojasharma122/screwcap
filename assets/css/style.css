@@ -959,11 +959,7 @@ span.input_msg {
     max-width: 75rem;
     margin: 0 auto;
 }
-.hot-cards-wrapper .row .col-md-6{
-    height: 100%;
-}
 .hot_cards {
-    margin-bottom: 2.5rem;
     box-shadow: rgba(255, 0, 0, 0.25) 0px 10px 20px -20px, rgba(255, 0, 0, 0.3) 0px 10px 10px -30px, rgba(255, 0, 0, 0.35) 0px -2px 6px 0px inset;
     padding: 1.5625rem;
     overflow: hidden;
@@ -995,10 +991,6 @@ span.input_msg {
     height: 100%;
     margin-bottom: 1.25rem;
     transition: 0.4s all ease-in-out;
-}
-
-.hot_cards-image_outer {
-    height: 100%;
 }
 
 .hot_cards_group {
