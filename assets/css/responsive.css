@@ -135,6 +135,15 @@
     .py-7 {
         padding: 2.375rem 0;
     }
+    .guide_cards_sec .banner_slides {
+        height: 500px;
+    }
+    section.guide_cards_sec .slide_content p {
+        font-size: 1rem;
+    }
+    section.guide_cards_sec .slide_content h2 {
+        font-size: 2rem;
+    }
 }
 
 

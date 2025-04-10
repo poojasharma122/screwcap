@@ -553,6 +553,7 @@ span.gold {
 
 .slide_content {
     text-align: center;
+    padding: 0 15px;
 }
 
 .slick-prev:before,
@@ -1385,6 +1386,9 @@ fieldset {
 .contact-submit:hover{
     color: #fff !important;
 }
+.contact-right h3 {
+    color: #fe9202;
+}
 /* Contact  CSS End*/
 
 
@@ -1491,4 +1495,18 @@ ul.outer_ul li {
 }
 .articles_sec .hot_cards p{
    color: #fff;
+}
+section.guide_cards_sec .slide_content p {
+    font-size: 1.2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.guide_btm_txt {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.guide_btm_txt p {
+    font-size: 1.2rem;
+    font-weight: 500;
 }
