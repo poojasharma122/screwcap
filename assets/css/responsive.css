@@ -203,4 +203,7 @@
     .hot_cards_image {
         height: 12.75rem;
     }
+    .guide_btm_txt p {
+        font-size: 1rem;
+    }
 }
