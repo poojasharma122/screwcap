@@ -1046,10 +1046,13 @@ span.heading-like {
 .hotel_btn_grp {
     display: inline-flex;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
 }  
 .text_white{
     color: #fff;
+}
+.text_dark{
+    color: #212529;
 }
 .hot_head_para{
     font-size: 1.2rem;
